@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ayaan Nadaf 👋
 
-<!--
-**ayaan-nadaf-dev/ayaan-nadaf-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA student | Java Full Stack Developer in the making | Learning DSA, Python & GenAI
 
-Here are some ideas to get you started:
+I'm building my career as a software developer, and I use this space to track what I'm learning and building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech I'm working with
+
+- **Languages:** Java, SQL, JavaScript, HTML, CSS, Python (learning)
+- **Backend:** Spring Boot, REST APIs, Hibernate/JPA (revising)
+- **Frontend:** React (revising)
+- **Database:** MySQL
+- **Tools:** Git, GitHub, IntelliJ IDEA / VS Code
+
+## 🎯 What I'm doing right now
+
+- Revising Java full stack: Core Java, OOP, SQL, Spring Boot and React
+- Practising DSA in Java on LeetCode (repo: `dsa-practice`)
+- Starting a Python Full Stack with GenAI internship in January 2027
+
+## 📌 Projects
+
+Projects will be added here as I build them.
+
+## 📫 Connect with me
+
+- LinkedIn: [linkedin.com/in/ayaan-nadaf-dev](https://www.linkedin.com/in/ayaan-nadaf-dev)
+
+Open to fresher roles: Software Developer | Java Developer | Full Stack Developer
